@@ -1,0 +1,1 @@
+This project was a practice module from Codecademy on the usage off CSS selectors. 
